@@ -3,8 +3,37 @@ Aula 1 (Dialogos em Calculo Numerico)
 	empenho, envolvimento (tentar, participar das aulas)
 	
 Aula 2 ( Calculo Numerico com meus oculos)
-	Diferença entre Calculo Numerico para Calculos I, II, III, IV e Algebra Linear?
+Diferença entre Calculo Numerico para Calculos I, II, III, IV e Algebra Linear?
 	
-	Analise Numerica: 
+Analise Numerica: 
+	estudo de algortimos que buscam resultados numéricos de problemas diversos
+	algoritmos = métodos numéricos de resolução de funções. Podem ser diretos, recursivos e iterativos
+	Por L.N. Trefethen: "Numerical analysis is th study of algorithms for the problems of continuous mathematics"
+		Analise numérica é o estudo de algoritmos para problemas da matematica do contínuo 
+		Matemática do contínuo: matemática dos Calculos I,II, III e IV. 
+			Voltados para o estudo das funções, limites, continuidades, derivadas, integrais, séries etc
+			Em Analise numerica, tambem usamos algoritmos para resolução de sistemas lineares, EDOs, autovalores, autovetores etc
+				
+Aproximação
+	Erro absoluto |x-x*|
+	Erro relativo  (|x-x*|)/x
+	Erro
+	Precisão 
+	Exatidão ( = acurácia)
+		
+	Dígitos significativos
+	Discretizar
 	
+Programas para analise numérica
+	pagos: 
+		Maple - maplesoft.com
+		Mathematica - wolfram.com
+		Matlab - mathworks.com
+	Gratuitos
+		Python 
+			bibliotecas NumPy, SciPy, gnuplot e MatplotLib (já vem baixados no Python xy ou Anaconda
+		gnu octave (para Linux)
+		scilab
+		
+				
 	
